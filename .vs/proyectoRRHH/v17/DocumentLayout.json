@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Visual Studio\\PROYECTO RRHH\\proyectoRRHH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Visual Studio\\PROYECTO RRHH\\proyectoRRHH\\Modulos\\Ficha\\FichaTrabajador.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modulos\\Ficha\\FichaTrabajador.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Visual Studio\\PROYECTO RRHH\\proyectoRRHH\\Modulos\\Mantenimiento\\Cargo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modulos\\Mantenimiento\\Cargo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Visual Studio\\PROYECTO RRHH\\proyectoRRHH\\Modulos\\Mantenimiento\\Cargo.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modulos\\Mantenimiento\\Cargo.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Visual Studio\\PROYECTO RRHH\\proyectoRRHH\\Modulos\\Ficha\\FichaTrabajador.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modulos\\Ficha\\FichaTrabajador.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FichaTrabajador.Designer.vb",
+              "DocumentMoniker": "C:\\Visual Studio\\PROYECTO RRHH\\proyectoRRHH\\Modulos\\Ficha\\FichaTrabajador.Designer.vb",
+              "RelativeDocumentMoniker": "Modulos\\Ficha\\FichaTrabajador.Designer.vb",
+              "ToolTip": "C:\\Visual Studio\\PROYECTO RRHH\\proyectoRRHH\\Modulos\\Ficha\\FichaTrabajador.Designer.vb",
+              "RelativeToolTip": "Modulos\\Ficha\\FichaTrabajador.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-26T21:38:07.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cargo.vb",
+              "DocumentMoniker": "C:\\Visual Studio\\PROYECTO RRHH\\proyectoRRHH\\Modulos\\Mantenimiento\\Cargo.vb",
+              "RelativeDocumentMoniker": "Modulos\\Mantenimiento\\Cargo.vb",
+              "ToolTip": "C:\\Visual Studio\\PROYECTO RRHH\\proyectoRRHH\\Modulos\\Mantenimiento\\Cargo.vb",
+              "RelativeToolTip": "Modulos\\Mantenimiento\\Cargo.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-26T21:37:22.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cargo.Designer.vb",
+              "DocumentMoniker": "C:\\Visual Studio\\PROYECTO RRHH\\proyectoRRHH\\Modulos\\Mantenimiento\\Cargo.Designer.vb",
+              "RelativeDocumentMoniker": "Modulos\\Mantenimiento\\Cargo.Designer.vb",
+              "ToolTip": "C:\\Visual Studio\\PROYECTO RRHH\\proyectoRRHH\\Modulos\\Mantenimiento\\Cargo.Designer.vb",
+              "RelativeToolTip": "Modulos\\Mantenimiento\\Cargo.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-26T21:37:16.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FichaTrabajador.vb",
+              "DocumentMoniker": "C:\\Visual Studio\\PROYECTO RRHH\\proyectoRRHH\\Modulos\\Ficha\\FichaTrabajador.vb",
+              "RelativeDocumentMoniker": "Modulos\\Ficha\\FichaTrabajador.vb",
+              "ToolTip": "C:\\Visual Studio\\PROYECTO RRHH\\proyectoRRHH\\Modulos\\Ficha\\FichaTrabajador.vb",
+              "RelativeToolTip": "Modulos\\Ficha\\FichaTrabajador.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-26T21:36:41.583Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

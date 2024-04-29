@@ -1,0 +1,106 @@
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\proyectoRRHH.exe.config
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\proyectoRRHH.exe
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\proyectoRRHH.pdb
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\proyectoRRHH.xml
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\obj\Debug\proyectoRRHH.FichaTrabajador.resources
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\obj\Debug\proyectoRRHH.Resources.resources
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\obj\Debug\proyectoRRHH.vbproj.GenerateResource.cache
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\obj\Debug\proyectoRRHH.vbproj.CoreCompileInputs.cache
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\obj\Debug\proyectoRRHH.exe
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\obj\Debug\proyectoRRHH.xml
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\obj\Debug\proyectoRRHH.pdb
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\DevExpress.Data.v21.2.dll
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\DevExpress.Data.v21.2.xml
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\obj\Debug\proyectoRRHH.exe.licenses
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\obj\Debug\proyectoRRHH.PosicionesCargo.resources
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\obj\Debug\proyectoRRHH.Cargo.resources
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\obj\Debug\proyectoRRHH.vbproj.AssemblyReference.cache
+C:\transferencia\PROYECTO RRHH\proyectoRRHH\obj\Debug\proyecto.E2CBDF8D.Up2Date
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\bin\Debug\proyectoRRHH.exe.config
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\bin\Debug\proyectoRRHH.exe
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\obj\Debug\proyectoRRHH.vbproj.AssemblyReference.cache
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\obj\Debug\proyectoRRHH.FichaTrabajador.resources
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\obj\Debug\proyectoRRHH.Cargo.resources
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\obj\Debug\proyectoRRHH.PosicionesCargo.resources
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\obj\Debug\proyectoRRHH.Resources.resources
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\obj\Debug\proyectoRRHH.vbproj.GenerateResource.cache
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\obj\Debug\proyectoRRHH.exe.licenses
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\obj\Debug\proyectoRRHH.vbproj.CoreCompileInputs.cache
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\obj\Debug\proyecto.E2CBDF8D.Up2Date
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\obj\Debug\proyectoRRHH.exe
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\obj\Debug\proyectoRRHH.xml
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\obj\Debug\proyectoRRHH.pdb
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\bin\Debug\proyectoRRHH.pdb
+C:\Visual Studio\PROYECTO RRHH\proyectoRRHH\bin\Debug\proyectoRRHH.xml
