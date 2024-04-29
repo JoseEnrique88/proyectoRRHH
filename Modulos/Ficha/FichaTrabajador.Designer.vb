@@ -43,6 +43,7 @@ Partial Class FichaTrabajador
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
         Me.DateTimePicker1 = New System.Windows.Forms.DateTimePicker()
         Me.Label24 = New System.Windows.Forms.Label()
+        Me.Button3 = New System.Windows.Forms.Button()
         Me.TextBox17 = New System.Windows.Forms.TextBox()
         Me.Label23 = New System.Windows.Forms.Label()
         Me.Label22 = New System.Windows.Forms.Label()
@@ -53,6 +54,8 @@ Partial Class FichaTrabajador
         Me.Label20 = New System.Windows.Forms.Label()
         Me.CheckBox1 = New System.Windows.Forms.CheckBox()
         Me.Label19 = New System.Windows.Forms.Label()
+        Me.Button2 = New System.Windows.Forms.Button()
+        Me.PictureBox1 = New System.Windows.Forms.PictureBox()
         Me.TextBox7 = New System.Windows.Forms.TextBox()
         Me.Button1 = New System.Windows.Forms.Button()
         Me.TextBox15 = New System.Windows.Forms.TextBox()
@@ -76,90 +79,79 @@ Partial Class FichaTrabajador
         Me.TextBox3 = New System.Windows.Forms.TextBox()
         Me.ComboBox1 = New System.Windows.Forms.ComboBox()
         Me.TabPage2 = New System.Windows.Forms.TabPage()
-        Me.TabPage3 = New System.Windows.Forms.TabPage()
-        Me.TabPage4 = New System.Windows.Forms.TabPage()
-        Me.TabPage5 = New System.Windows.Forms.TabPage()
-        Me.TabPage6 = New System.Windows.Forms.TabPage()
-        Me.TabPage7 = New System.Windows.Forms.TabPage()
-        Me.Button8 = New System.Windows.Forms.Button()
-        Me.Button7 = New System.Windows.Forms.Button()
-        Me.Button6 = New System.Windows.Forms.Button()
-        Me.Button5 = New System.Windows.Forms.Button()
-        Me.Button4 = New System.Windows.Forms.Button()
-        Me.Button3 = New System.Windows.Forms.Button()
-        Me.Button2 = New System.Windows.Forms.Button()
-        Me.PictureBox1 = New System.Windows.Forms.PictureBox()
-        Me.GroupBox4 = New System.Windows.Forms.GroupBox()
-        Me.Label25 = New System.Windows.Forms.Label()
-        Me.TextBox20 = New System.Windows.Forms.TextBox()
-        Me.ComboBox4 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox5 = New System.Windows.Forms.ComboBox()
-        Me.Label26 = New System.Windows.Forms.Label()
-        Me.Label27 = New System.Windows.Forms.Label()
-        Me.GroupBox5 = New System.Windows.Forms.GroupBox()
-        Me.Label28 = New System.Windows.Forms.Label()
-        Me.TextBox18 = New System.Windows.Forms.TextBox()
-        Me.Label29 = New System.Windows.Forms.Label()
-        Me.TextBox19 = New System.Windows.Forms.TextBox()
         Me.GroupBox6 = New System.Windows.Forms.GroupBox()
+        Me.RichTextBox1 = New System.Windows.Forms.RichTextBox()
+        Me.Label41 = New System.Windows.Forms.Label()
+        Me.ComboBox10 = New System.Windows.Forms.ComboBox()
+        Me.Label40 = New System.Windows.Forms.Label()
+        Me.ComboBox9 = New System.Windows.Forms.ComboBox()
+        Me.Label39 = New System.Windows.Forms.Label()
+        Me.Button9 = New System.Windows.Forms.Button()
+        Me.Label38 = New System.Windows.Forms.Label()
+        Me.TextBox23 = New System.Windows.Forms.TextBox()
+        Me.Label37 = New System.Windows.Forms.Label()
+        Me.DateTimePicker3 = New System.Windows.Forms.DateTimePicker()
+        Me.Label36 = New System.Windows.Forms.Label()
+        Me.DateTimePicker2 = New System.Windows.Forms.DateTimePicker()
+        Me.Label35 = New System.Windows.Forms.Label()
+        Me.ComboBox8 = New System.Windows.Forms.ComboBox()
+        Me.Label34 = New System.Windows.Forms.Label()
+        Me.TextBox22 = New System.Windows.Forms.TextBox()
+        Me.Label33 = New System.Windows.Forms.Label()
+        Me.Label32 = New System.Windows.Forms.Label()
+        Me.ComboBox7 = New System.Windows.Forms.ComboBox()
+        Me.ComboBox6 = New System.Windows.Forms.ComboBox()
         Me.Label30 = New System.Windows.Forms.Label()
         Me.TextBox21 = New System.Windows.Forms.TextBox()
         Me.Label31 = New System.Windows.Forms.Label()
-        Me.ComboBox6 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox7 = New System.Windows.Forms.ComboBox()
-        Me.Label32 = New System.Windows.Forms.Label()
-        Me.Label33 = New System.Windows.Forms.Label()
-        Me.TextBox22 = New System.Windows.Forms.TextBox()
-        Me.Label34 = New System.Windows.Forms.Label()
-        Me.ComboBox8 = New System.Windows.Forms.ComboBox()
-        Me.Label35 = New System.Windows.Forms.Label()
-        Me.DateTimePicker2 = New System.Windows.Forms.DateTimePicker()
-        Me.Label36 = New System.Windows.Forms.Label()
-        Me.DateTimePicker3 = New System.Windows.Forms.DateTimePicker()
-        Me.Label37 = New System.Windows.Forms.Label()
-        Me.TextBox23 = New System.Windows.Forms.TextBox()
-        Me.Label38 = New System.Windows.Forms.Label()
-        Me.Button9 = New System.Windows.Forms.Button()
-        Me.Label39 = New System.Windows.Forms.Label()
-        Me.ComboBox9 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox10 = New System.Windows.Forms.ComboBox()
-        Me.Label40 = New System.Windows.Forms.Label()
-        Me.Label41 = New System.Windows.Forms.Label()
-        Me.RichTextBox1 = New System.Windows.Forms.RichTextBox()
-        Me.Label42 = New System.Windows.Forms.Label()
-        Me.TextBox24 = New System.Windows.Forms.TextBox()
+        Me.GroupBox5 = New System.Windows.Forms.GroupBox()
+        Me.Label29 = New System.Windows.Forms.Label()
+        Me.TextBox19 = New System.Windows.Forms.TextBox()
+        Me.Label28 = New System.Windows.Forms.Label()
+        Me.TextBox18 = New System.Windows.Forms.TextBox()
+        Me.GroupBox4 = New System.Windows.Forms.GroupBox()
         Me.Button10 = New System.Windows.Forms.Button()
-        Me.GroupBox7 = New System.Windows.Forms.GroupBox()
-        Me.Label43 = New System.Windows.Forms.Label()
-        Me.Label45 = New System.Windows.Forms.Label()
-        Me.Label46 = New System.Windows.Forms.Label()
-        Me.TextBox27 = New System.Windows.Forms.TextBox()
-        Me.TextBox28 = New System.Windows.Forms.TextBox()
-        Me.Label47 = New System.Windows.Forms.Label()
-        Me.TextBox29 = New System.Windows.Forms.TextBox()
-        Me.ComboBox11 = New System.Windows.Forms.ComboBox()
+        Me.TextBox24 = New System.Windows.Forms.TextBox()
+        Me.Label42 = New System.Windows.Forms.Label()
+        Me.Label27 = New System.Windows.Forms.Label()
+        Me.ComboBox5 = New System.Windows.Forms.ComboBox()
+        Me.Label26 = New System.Windows.Forms.Label()
+        Me.ComboBox4 = New System.Windows.Forms.ComboBox()
+        Me.Label25 = New System.Windows.Forms.Label()
+        Me.TextBox20 = New System.Windows.Forms.TextBox()
+        Me.TabPage3 = New System.Windows.Forms.TabPage()
         Me.GroupBox8 = New System.Windows.Forms.GroupBox()
+        Me.ComboBox15 = New System.Windows.Forms.ComboBox()
+        Me.Label52 = New System.Windows.Forms.Label()
+        Me.TextBox26 = New System.Windows.Forms.TextBox()
+        Me.Label51 = New System.Windows.Forms.Label()
+        Me.ComboBox14 = New System.Windows.Forms.ComboBox()
+        Me.ComboBox13 = New System.Windows.Forms.ComboBox()
         Me.ComboBox12 = New System.Windows.Forms.ComboBox()
         Me.TextBox25 = New System.Windows.Forms.TextBox()
         Me.Label44 = New System.Windows.Forms.Label()
         Me.Label48 = New System.Windows.Forms.Label()
         Me.Label49 = New System.Windows.Forms.Label()
         Me.Label50 = New System.Windows.Forms.Label()
-        Me.ComboBox13 = New System.Windows.Forms.ComboBox()
-        Me.ComboBox14 = New System.Windows.Forms.ComboBox()
-        Me.Label51 = New System.Windows.Forms.Label()
-        Me.TextBox26 = New System.Windows.Forms.TextBox()
-        Me.Label52 = New System.Windows.Forms.Label()
-        Me.ComboBox15 = New System.Windows.Forms.ComboBox()
-        Me.GroupBox9 = New System.Windows.Forms.GroupBox()
-        Me.Label53 = New System.Windows.Forms.Label()
-        Me.TextBox30 = New System.Windows.Forms.TextBox()
-        Me.Label54 = New System.Windows.Forms.Label()
-        Me.ComboBox17 = New System.Windows.Forms.ComboBox()
-        Me.TextBox31 = New System.Windows.Forms.TextBox()
-        Me.Label55 = New System.Windows.Forms.Label()
-        Me.Label57 = New System.Windows.Forms.Label()
+        Me.GroupBox7 = New System.Windows.Forms.GroupBox()
+        Me.ComboBox11 = New System.Windows.Forms.ComboBox()
+        Me.TextBox29 = New System.Windows.Forms.TextBox()
+        Me.Label47 = New System.Windows.Forms.Label()
+        Me.TextBox28 = New System.Windows.Forms.TextBox()
+        Me.TextBox27 = New System.Windows.Forms.TextBox()
+        Me.Label43 = New System.Windows.Forms.Label()
+        Me.Label45 = New System.Windows.Forms.Label()
+        Me.Label46 = New System.Windows.Forms.Label()
+        Me.TabPage4 = New System.Windows.Forms.TabPage()
         Me.GroupBox10 = New System.Windows.Forms.GroupBox()
+        Me.TextBox32 = New System.Windows.Forms.TextBox()
+        Me.Label58 = New System.Windows.Forms.Label()
+        Me.DateTimePicker6 = New System.Windows.Forms.DateTimePicker()
+        Me.DateTimePicker5 = New System.Windows.Forms.DateTimePicker()
+        Me.TextBox35 = New System.Windows.Forms.TextBox()
+        Me.Button13 = New System.Windows.Forms.Button()
+        Me.Button14 = New System.Windows.Forms.Button()
+        Me.DataGridView2 = New System.Windows.Forms.DataGridView()
         Me.Label60 = New System.Windows.Forms.Label()
         Me.ComboBox22 = New System.Windows.Forms.ComboBox()
         Me.TextBox33 = New System.Windows.Forms.TextBox()
@@ -167,57 +159,65 @@ Partial Class FichaTrabajador
         Me.Label62 = New System.Windows.Forms.Label()
         Me.Label63 = New System.Windows.Forms.Label()
         Me.Label64 = New System.Windows.Forms.Label()
-        Me.DateTimePicker4 = New System.Windows.Forms.DateTimePicker()
+        Me.GroupBox9 = New System.Windows.Forms.GroupBox()
+        Me.DataGridView1 = New System.Windows.Forms.DataGridView()
+        Me.TextBox34 = New System.Windows.Forms.TextBox()
+        Me.Label56 = New System.Windows.Forms.Label()
         Me.Button11 = New System.Windows.Forms.Button()
         Me.Button12 = New System.Windows.Forms.Button()
-        Me.Label56 = New System.Windows.Forms.Label()
-        Me.TextBox34 = New System.Windows.Forms.TextBox()
-        Me.DataGridView1 = New System.Windows.Forms.DataGridView()
-        Me.DataGridView2 = New System.Windows.Forms.DataGridView()
-        Me.Button13 = New System.Windows.Forms.Button()
-        Me.Button14 = New System.Windows.Forms.Button()
-        Me.TextBox35 = New System.Windows.Forms.TextBox()
-        Me.DateTimePicker5 = New System.Windows.Forms.DateTimePicker()
-        Me.DateTimePicker6 = New System.Windows.Forms.DateTimePicker()
-        Me.TextBox32 = New System.Windows.Forms.TextBox()
-        Me.Label58 = New System.Windows.Forms.Label()
+        Me.DateTimePicker4 = New System.Windows.Forms.DateTimePicker()
+        Me.Label53 = New System.Windows.Forms.Label()
+        Me.TextBox30 = New System.Windows.Forms.TextBox()
+        Me.Label54 = New System.Windows.Forms.Label()
+        Me.ComboBox17 = New System.Windows.Forms.ComboBox()
+        Me.TextBox31 = New System.Windows.Forms.TextBox()
+        Me.Label55 = New System.Windows.Forms.Label()
+        Me.Label57 = New System.Windows.Forms.Label()
+        Me.TabPage5 = New System.Windows.Forms.TabPage()
         Me.GroupBox11 = New System.Windows.Forms.GroupBox()
         Me.RichTextBox2 = New System.Windows.Forms.RichTextBox()
-        Me.GroupBox12 = New System.Windows.Forms.GroupBox()
+        Me.TabPage6 = New System.Windows.Forms.TabPage()
         Me.GroupBox13 = New System.Windows.Forms.GroupBox()
+        Me.GroupBox12 = New System.Windows.Forms.GroupBox()
+        Me.TabPage7 = New System.Windows.Forms.TabPage()
         Me.GroupBox14 = New System.Windows.Forms.GroupBox()
-        Me.DataGridView3 = New System.Windows.Forms.DataGridView()
-        Me.ComboBox16 = New System.Windows.Forms.ComboBox()
-        Me.Label59 = New System.Windows.Forms.Label()
-        Me.Label65 = New System.Windows.Forms.Label()
-        Me.TextBox36 = New System.Windows.Forms.TextBox()
-        Me.Button15 = New System.Windows.Forms.Button()
-        Me.Label66 = New System.Windows.Forms.Label()
-        Me.TextBox37 = New System.Windows.Forms.TextBox()
         Me.Button16 = New System.Windows.Forms.Button()
         Me.Button17 = New System.Windows.Forms.Button()
+        Me.TextBox37 = New System.Windows.Forms.TextBox()
+        Me.Label66 = New System.Windows.Forms.Label()
+        Me.Button15 = New System.Windows.Forms.Button()
+        Me.TextBox36 = New System.Windows.Forms.TextBox()
+        Me.Label65 = New System.Windows.Forms.Label()
+        Me.ComboBox16 = New System.Windows.Forms.ComboBox()
+        Me.Label59 = New System.Windows.Forms.Label()
+        Me.DataGridView3 = New System.Windows.Forms.DataGridView()
+        Me.Button8 = New System.Windows.Forms.Button()
+        Me.Button7 = New System.Windows.Forms.Button()
+        Me.Button6 = New System.Windows.Forms.Button()
+        Me.Button5 = New System.Windows.Forms.Button()
+        Me.Button4 = New System.Windows.Forms.Button()
         Me.TabControl1.SuspendLayout()
         Me.TabPage1.SuspendLayout()
         Me.GroupBox3.SuspendLayout()
         Me.GroupBox2.SuspendLayout()
         Me.GroupBox1.SuspendLayout()
+        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.TabPage2.SuspendLayout()
+        Me.GroupBox6.SuspendLayout()
+        Me.GroupBox5.SuspendLayout()
+        Me.GroupBox4.SuspendLayout()
         Me.TabPage3.SuspendLayout()
+        Me.GroupBox8.SuspendLayout()
+        Me.GroupBox7.SuspendLayout()
         Me.TabPage4.SuspendLayout()
+        Me.GroupBox10.SuspendLayout()
+        CType(Me.DataGridView2, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.GroupBox9.SuspendLayout()
+        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.TabPage5.SuspendLayout()
+        Me.GroupBox11.SuspendLayout()
         Me.TabPage6.SuspendLayout()
         Me.TabPage7.SuspendLayout()
-        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
-        Me.GroupBox4.SuspendLayout()
-        Me.GroupBox5.SuspendLayout()
-        Me.GroupBox6.SuspendLayout()
-        Me.GroupBox7.SuspendLayout()
-        Me.GroupBox8.SuspendLayout()
-        Me.GroupBox9.SuspendLayout()
-        Me.GroupBox10.SuspendLayout()
-        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.DataGridView2, System.ComponentModel.ISupportInitialize).BeginInit()
-        Me.GroupBox11.SuspendLayout()
         Me.GroupBox14.SuspendLayout()
         CType(Me.DataGridView3, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
@@ -469,6 +469,15 @@ Partial Class FichaTrabajador
         Me.Label24.TabIndex = 70
         Me.Label24.Text = "Fecha de nacimiento"
         '
+        'Button3
+        '
+        Me.Button3.Image = Global.proyectoRRHH.My.Resources.Resources.icons8_añadir_16
+        Me.Button3.Location = New System.Drawing.Point(493, 137)
+        Me.Button3.Name = "Button3"
+        Me.Button3.Size = New System.Drawing.Size(31, 23)
+        Me.Button3.TabIndex = 69
+        Me.Button3.UseVisualStyleBackColor = True
+        '
         'TextBox17
         '
         Me.TextBox17.Location = New System.Drawing.Point(418, 252)
@@ -559,6 +568,24 @@ Partial Class FichaTrabajador
         Me.Label19.TabIndex = 59
         Me.Label19.Text = "Personal médico"
         '
+        'Button2
+        '
+        Me.Button2.Image = Global.proyectoRRHH.My.Resources.Resources.icons8_busqueda_16
+        Me.Button2.Location = New System.Drawing.Point(276, 26)
+        Me.Button2.Name = "Button2"
+        Me.Button2.Size = New System.Drawing.Size(29, 22)
+        Me.Button2.TabIndex = 58
+        Me.Button2.UseVisualStyleBackColor = True
+        '
+        'PictureBox1
+        '
+        Me.PictureBox1.BackColor = System.Drawing.Color.Gainsboro
+        Me.PictureBox1.Location = New System.Drawing.Point(558, 41)
+        Me.PictureBox1.Name = "PictureBox1"
+        Me.PictureBox1.Size = New System.Drawing.Size(106, 128)
+        Me.PictureBox1.TabIndex = 16
+        Me.PictureBox1.TabStop = False
+        '
         'TextBox7
         '
         Me.TextBox7.Location = New System.Drawing.Point(418, 138)
@@ -568,7 +595,7 @@ Partial Class FichaTrabajador
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(576, 172)
+        Me.Button1.Location = New System.Drawing.Point(576, 181)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(68, 23)
         Me.Button1.TabIndex = 18
@@ -763,254 +790,6 @@ Partial Class FichaTrabajador
         Me.TabPage2.Text = "Empleo"
         Me.TabPage2.UseVisualStyleBackColor = True
         '
-        'TabPage3
-        '
-        Me.TabPage3.Controls.Add(Me.GroupBox8)
-        Me.TabPage3.Controls.Add(Me.GroupBox7)
-        Me.TabPage3.Location = New System.Drawing.Point(4, 22)
-        Me.TabPage3.Name = "TabPage3"
-        Me.TabPage3.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage3.Size = New System.Drawing.Size(709, 533)
-        Me.TabPage3.TabIndex = 2
-        Me.TabPage3.Text = "Compensaciones"
-        Me.TabPage3.UseVisualStyleBackColor = True
-        '
-        'TabPage4
-        '
-        Me.TabPage4.Controls.Add(Me.GroupBox10)
-        Me.TabPage4.Controls.Add(Me.GroupBox9)
-        Me.TabPage4.Location = New System.Drawing.Point(4, 22)
-        Me.TabPage4.Name = "TabPage4"
-        Me.TabPage4.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage4.Size = New System.Drawing.Size(709, 533)
-        Me.TabPage4.TabIndex = 3
-        Me.TabPage4.Text = "Académico y Laboral"
-        Me.TabPage4.UseVisualStyleBackColor = True
-        '
-        'TabPage5
-        '
-        Me.TabPage5.Controls.Add(Me.GroupBox11)
-        Me.TabPage5.Location = New System.Drawing.Point(4, 22)
-        Me.TabPage5.Name = "TabPage5"
-        Me.TabPage5.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage5.Size = New System.Drawing.Size(709, 533)
-        Me.TabPage5.TabIndex = 4
-        Me.TabPage5.Text = "Expediente"
-        Me.TabPage5.UseVisualStyleBackColor = True
-        '
-        'TabPage6
-        '
-        Me.TabPage6.Controls.Add(Me.GroupBox13)
-        Me.TabPage6.Controls.Add(Me.GroupBox12)
-        Me.TabPage6.Location = New System.Drawing.Point(4, 22)
-        Me.TabPage6.Name = "TabPage6"
-        Me.TabPage6.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage6.Size = New System.Drawing.Size(709, 533)
-        Me.TabPage6.TabIndex = 5
-        Me.TabPage6.Text = "Firma digital"
-        Me.TabPage6.UseVisualStyleBackColor = True
-        '
-        'TabPage7
-        '
-        Me.TabPage7.Controls.Add(Me.GroupBox14)
-        Me.TabPage7.Location = New System.Drawing.Point(4, 22)
-        Me.TabPage7.Name = "TabPage7"
-        Me.TabPage7.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage7.Size = New System.Drawing.Size(709, 533)
-        Me.TabPage7.TabIndex = 6
-        Me.TabPage7.Text = "Documentos digitales"
-        Me.TabPage7.UseVisualStyleBackColor = True
-        '
-        'Button8
-        '
-        Me.Button8.Image = Global.proyectoRRHH.My.Resources.Resources.icons8_cerrar_ventana_32
-        Me.Button8.Location = New System.Drawing.Point(205, 561)
-        Me.Button8.Name = "Button8"
-        Me.Button8.Size = New System.Drawing.Size(46, 42)
-        Me.Button8.TabIndex = 63
-        Me.Button8.UseVisualStyleBackColor = True
-        '
-        'Button7
-        '
-        Me.Button7.Image = Global.proyectoRRHH.My.Resources.Resources.icons8_imprimir_32
-        Me.Button7.Location = New System.Drawing.Point(157, 561)
-        Me.Button7.Name = "Button7"
-        Me.Button7.Size = New System.Drawing.Size(46, 42)
-        Me.Button7.TabIndex = 62
-        Me.Button7.UseVisualStyleBackColor = True
-        '
-        'Button6
-        '
-        Me.Button6.Image = Global.proyectoRRHH.My.Resources.Resources.icons8_cancelar_32
-        Me.Button6.Location = New System.Drawing.Point(109, 561)
-        Me.Button6.Name = "Button6"
-        Me.Button6.Size = New System.Drawing.Size(46, 42)
-        Me.Button6.TabIndex = 61
-        Me.Button6.UseVisualStyleBackColor = True
-        '
-        'Button5
-        '
-        Me.Button5.Image = Global.proyectoRRHH.My.Resources.Resources.icons8_guardar_32
-        Me.Button5.Location = New System.Drawing.Point(60, 561)
-        Me.Button5.Name = "Button5"
-        Me.Button5.Size = New System.Drawing.Size(46, 42)
-        Me.Button5.TabIndex = 60
-        Me.Button5.UseVisualStyleBackColor = True
-        '
-        'Button4
-        '
-        Me.Button4.Image = Global.proyectoRRHH.My.Resources.Resources.icons8_agregar_archivo_32
-        Me.Button4.Location = New System.Drawing.Point(12, 561)
-        Me.Button4.Name = "Button4"
-        Me.Button4.Size = New System.Drawing.Size(46, 42)
-        Me.Button4.TabIndex = 59
-        Me.Button4.UseVisualStyleBackColor = True
-        '
-        'Button3
-        '
-        Me.Button3.Image = Global.proyectoRRHH.My.Resources.Resources.icons8_añadir_16
-        Me.Button3.Location = New System.Drawing.Point(493, 137)
-        Me.Button3.Name = "Button3"
-        Me.Button3.Size = New System.Drawing.Size(31, 23)
-        Me.Button3.TabIndex = 69
-        Me.Button3.UseVisualStyleBackColor = True
-        '
-        'Button2
-        '
-        Me.Button2.Image = Global.proyectoRRHH.My.Resources.Resources.icons8_busqueda_16
-        Me.Button2.Location = New System.Drawing.Point(276, 26)
-        Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(29, 22)
-        Me.Button2.TabIndex = 58
-        Me.Button2.UseVisualStyleBackColor = True
-        '
-        'PictureBox1
-        '
-        Me.PictureBox1.BackColor = System.Drawing.Color.Gainsboro
-        Me.PictureBox1.Location = New System.Drawing.Point(558, 41)
-        Me.PictureBox1.Name = "PictureBox1"
-        Me.PictureBox1.Size = New System.Drawing.Size(106, 128)
-        Me.PictureBox1.TabIndex = 16
-        Me.PictureBox1.TabStop = False
-        '
-        'GroupBox4
-        '
-        Me.GroupBox4.Controls.Add(Me.Button10)
-        Me.GroupBox4.Controls.Add(Me.TextBox24)
-        Me.GroupBox4.Controls.Add(Me.Label42)
-        Me.GroupBox4.Controls.Add(Me.Label27)
-        Me.GroupBox4.Controls.Add(Me.ComboBox5)
-        Me.GroupBox4.Controls.Add(Me.Label26)
-        Me.GroupBox4.Controls.Add(Me.ComboBox4)
-        Me.GroupBox4.Controls.Add(Me.Label25)
-        Me.GroupBox4.Controls.Add(Me.TextBox20)
-        Me.GroupBox4.Location = New System.Drawing.Point(6, 6)
-        Me.GroupBox4.Name = "GroupBox4"
-        Me.GroupBox4.Size = New System.Drawing.Size(687, 118)
-        Me.GroupBox4.TabIndex = 41
-        Me.GroupBox4.TabStop = False
-        Me.GroupBox4.Text = "General"
-        '
-        'Label25
-        '
-        Me.Label25.AutoSize = True
-        Me.Label25.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label25.Location = New System.Drawing.Point(15, 29)
-        Me.Label25.Name = "Label25"
-        Me.Label25.Size = New System.Drawing.Size(62, 13)
-        Me.Label25.TabIndex = 9
-        Me.Label25.Text = "Compañia"
-        '
-        'TextBox20
-        '
-        Me.TextBox20.Location = New System.Drawing.Point(147, 80)
-        Me.TextBox20.Name = "TextBox20"
-        Me.TextBox20.Size = New System.Drawing.Size(350, 20)
-        Me.TextBox20.TabIndex = 28
-        '
-        'ComboBox4
-        '
-        Me.ComboBox4.FormattingEnabled = True
-        Me.ComboBox4.Location = New System.Drawing.Point(147, 26)
-        Me.ComboBox4.Name = "ComboBox4"
-        Me.ComboBox4.Size = New System.Drawing.Size(168, 21)
-        Me.ComboBox4.TabIndex = 29
-        '
-        'ComboBox5
-        '
-        Me.ComboBox5.FormattingEnabled = True
-        Me.ComboBox5.Location = New System.Drawing.Point(147, 53)
-        Me.ComboBox5.Name = "ComboBox5"
-        Me.ComboBox5.Size = New System.Drawing.Size(168, 21)
-        Me.ComboBox5.TabIndex = 31
-        '
-        'Label26
-        '
-        Me.Label26.AutoSize = True
-        Me.Label26.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label26.Location = New System.Drawing.Point(15, 56)
-        Me.Label26.Name = "Label26"
-        Me.Label26.Size = New System.Drawing.Size(33, 13)
-        Me.Label26.TabIndex = 30
-        Me.Label26.Text = "Área"
-        '
-        'Label27
-        '
-        Me.Label27.AutoSize = True
-        Me.Label27.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label27.Location = New System.Drawing.Point(15, 83)
-        Me.Label27.Name = "Label27"
-        Me.Label27.Size = New System.Drawing.Size(55, 13)
-        Me.Label27.TabIndex = 32
-        Me.Label27.Text = "Posición"
-        '
-        'GroupBox5
-        '
-        Me.GroupBox5.Controls.Add(Me.Label29)
-        Me.GroupBox5.Controls.Add(Me.TextBox19)
-        Me.GroupBox5.Controls.Add(Me.Label28)
-        Me.GroupBox5.Controls.Add(Me.TextBox18)
-        Me.GroupBox5.Location = New System.Drawing.Point(6, 130)
-        Me.GroupBox5.Name = "GroupBox5"
-        Me.GroupBox5.Size = New System.Drawing.Size(687, 100)
-        Me.GroupBox5.TabIndex = 42
-        Me.GroupBox5.TabStop = False
-        Me.GroupBox5.Text = "Jefe inmediato"
-        '
-        'Label28
-        '
-        Me.Label28.AutoSize = True
-        Me.Label28.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label28.Location = New System.Drawing.Point(15, 34)
-        Me.Label28.Name = "Label28"
-        Me.Label28.Size = New System.Drawing.Size(55, 13)
-        Me.Label28.TabIndex = 32
-        Me.Label28.Text = "Posición"
-        '
-        'TextBox18
-        '
-        Me.TextBox18.Location = New System.Drawing.Point(147, 31)
-        Me.TextBox18.Name = "TextBox18"
-        Me.TextBox18.Size = New System.Drawing.Size(350, 20)
-        Me.TextBox18.TabIndex = 28
-        '
-        'Label29
-        '
-        Me.Label29.AutoSize = True
-        Me.Label29.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label29.Location = New System.Drawing.Point(15, 60)
-        Me.Label29.Name = "Label29"
-        Me.Label29.Size = New System.Drawing.Size(89, 13)
-        Me.Label29.TabIndex = 34
-        Me.Label29.Text = "Jefe inmediato"
-        '
-        'TextBox19
-        '
-        Me.TextBox19.Location = New System.Drawing.Point(147, 57)
-        Me.TextBox19.Name = "TextBox19"
-        Me.TextBox19.Size = New System.Drawing.Size(350, 20)
-        Me.TextBox19.TabIndex = 33
-        '
         'GroupBox6
         '
         Me.GroupBox6.Controls.Add(Me.RichTextBox1)
@@ -1044,6 +823,193 @@ Partial Class FichaTrabajador
         Me.GroupBox6.TabStop = False
         Me.GroupBox6.Text = "Otros"
         '
+        'RichTextBox1
+        '
+        Me.RichTextBox1.Location = New System.Drawing.Point(145, 178)
+        Me.RichTextBox1.Name = "RichTextBox1"
+        Me.RichTextBox1.Size = New System.Drawing.Size(466, 96)
+        Me.RichTextBox1.TabIndex = 84
+        Me.RichTextBox1.Text = ""
+        '
+        'Label41
+        '
+        Me.Label41.AutoSize = True
+        Me.Label41.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label41.Location = New System.Drawing.Point(16, 178)
+        Me.Label41.Name = "Label41"
+        Me.Label41.Size = New System.Drawing.Size(91, 13)
+        Me.Label41.TabIndex = 83
+        Me.Label41.Text = "Observaciones"
+        '
+        'ComboBox10
+        '
+        Me.ComboBox10.FormattingEnabled = True
+        Me.ComboBox10.Location = New System.Drawing.Point(528, 144)
+        Me.ComboBox10.Name = "ComboBox10"
+        Me.ComboBox10.Size = New System.Drawing.Size(53, 21)
+        Me.ComboBox10.TabIndex = 82
+        '
+        'Label40
+        '
+        Me.Label40.AutoSize = True
+        Me.Label40.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label40.Location = New System.Drawing.Point(350, 147)
+        Me.Label40.Name = "Label40"
+        Me.Label40.Size = New System.Drawing.Size(94, 13)
+        Me.Label40.TabIndex = 81
+        Me.Label40.Text = "Recontratación"
+        '
+        'ComboBox9
+        '
+        Me.ComboBox9.FormattingEnabled = True
+        Me.ComboBox9.Location = New System.Drawing.Point(145, 144)
+        Me.ComboBox9.Name = "ComboBox9"
+        Me.ComboBox9.Size = New System.Drawing.Size(168, 21)
+        Me.ComboBox9.TabIndex = 80
+        '
+        'Label39
+        '
+        Me.Label39.AutoSize = True
+        Me.Label39.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label39.Location = New System.Drawing.Point(15, 147)
+        Me.Label39.Name = "Label39"
+        Me.Label39.Size = New System.Drawing.Size(100, 13)
+        Me.Label39.TabIndex = 79
+        Me.Label39.Text = "Motivo de salida"
+        '
+        'Button9
+        '
+        Me.Button9.Image = Global.proyectoRRHH.My.Resources.Resources.icons8_añadir_16
+        Me.Button9.Location = New System.Drawing.Point(528, 112)
+        Me.Button9.Name = "Button9"
+        Me.Button9.Size = New System.Drawing.Size(31, 23)
+        Me.Button9.TabIndex = 78
+        Me.Button9.UseVisualStyleBackColor = True
+        '
+        'Label38
+        '
+        Me.Label38.AutoSize = True
+        Me.Label38.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label38.Location = New System.Drawing.Point(400, 119)
+        Me.Label38.Name = "Label38"
+        Me.Label38.Size = New System.Drawing.Size(92, 13)
+        Me.Label38.TabIndex = 77
+        Me.Label38.Text = "Historia laboral"
+        '
+        'TextBox23
+        '
+        Me.TextBox23.Location = New System.Drawing.Point(328, 115)
+        Me.TextBox23.Name = "TextBox23"
+        Me.TextBox23.Size = New System.Drawing.Size(53, 20)
+        Me.TextBox23.TabIndex = 76
+        '
+        'Label37
+        '
+        Me.Label37.AutoSize = True
+        Me.Label37.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label37.Location = New System.Drawing.Point(251, 119)
+        Me.Label37.Name = "Label37"
+        Me.Label37.Size = New System.Drawing.Size(71, 13)
+        Me.Label37.TabIndex = 75
+        Me.Label37.Text = "Antiguedad"
+        '
+        'DateTimePicker3
+        '
+        Me.DateTimePicker3.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
+        Me.DateTimePicker3.Location = New System.Drawing.Point(147, 112)
+        Me.DateTimePicker3.Name = "DateTimePicker3"
+        Me.DateTimePicker3.Size = New System.Drawing.Size(83, 20)
+        Me.DateTimePicker3.TabIndex = 74
+        '
+        'Label36
+        '
+        Me.Label36.AutoSize = True
+        Me.Label36.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label36.Location = New System.Drawing.Point(15, 118)
+        Me.Label36.Name = "Label36"
+        Me.Label36.Size = New System.Drawing.Size(101, 13)
+        Me.Label36.TabIndex = 73
+        Me.Label36.Text = "Finaliza contrato"
+        '
+        'DateTimePicker2
+        '
+        Me.DateTimePicker2.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
+        Me.DateTimePicker2.Location = New System.Drawing.Point(528, 85)
+        Me.DateTimePicker2.Name = "DateTimePicker2"
+        Me.DateTimePicker2.Size = New System.Drawing.Size(83, 20)
+        Me.DateTimePicker2.TabIndex = 72
+        '
+        'Label35
+        '
+        Me.Label35.AutoSize = True
+        Me.Label35.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label35.Location = New System.Drawing.Point(350, 88)
+        Me.Label35.Name = "Label35"
+        Me.Label35.Size = New System.Drawing.Size(111, 13)
+        Me.Label35.TabIndex = 42
+        Me.Label35.Text = "Fecha de contrato"
+        '
+        'ComboBox8
+        '
+        Me.ComboBox8.FormattingEnabled = True
+        Me.ComboBox8.Location = New System.Drawing.Point(147, 85)
+        Me.ComboBox8.Name = "ComboBox8"
+        Me.ComboBox8.Size = New System.Drawing.Size(168, 21)
+        Me.ComboBox8.TabIndex = 41
+        '
+        'Label34
+        '
+        Me.Label34.AutoSize = True
+        Me.Label34.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label34.Location = New System.Drawing.Point(15, 88)
+        Me.Label34.Name = "Label34"
+        Me.Label34.Size = New System.Drawing.Size(55, 13)
+        Me.Label34.TabIndex = 40
+        Me.Label34.Text = "Contrato"
+        '
+        'TextBox22
+        '
+        Me.TextBox22.Location = New System.Drawing.Point(528, 62)
+        Me.TextBox22.Name = "TextBox22"
+        Me.TextBox22.Size = New System.Drawing.Size(53, 20)
+        Me.TextBox22.TabIndex = 39
+        '
+        'Label33
+        '
+        Me.Label33.AutoSize = True
+        Me.Label33.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label33.Location = New System.Drawing.Point(350, 64)
+        Me.Label33.Name = "Label33"
+        Me.Label33.Size = New System.Drawing.Size(142, 13)
+        Me.Label33.TabIndex = 38
+        Me.Label33.Text = "Hr. de trabajo x semana"
+        '
+        'Label32
+        '
+        Me.Label32.AutoSize = True
+        Me.Label32.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label32.Location = New System.Drawing.Point(15, 60)
+        Me.Label32.Name = "Label32"
+        Me.Label32.Size = New System.Drawing.Size(94, 13)
+        Me.Label32.TabIndex = 37
+        Me.Label32.Text = "Nivel empleado"
+        '
+        'ComboBox7
+        '
+        Me.ComboBox7.FormattingEnabled = True
+        Me.ComboBox7.Location = New System.Drawing.Point(528, 35)
+        Me.ComboBox7.Name = "ComboBox7"
+        Me.ComboBox7.Size = New System.Drawing.Size(53, 21)
+        Me.ComboBox7.TabIndex = 36
+        '
+        'ComboBox6
+        '
+        Me.ComboBox6.FormattingEnabled = True
+        Me.ComboBox6.Location = New System.Drawing.Point(147, 30)
+        Me.ComboBox6.Name = "ComboBox6"
+        Me.ComboBox6.Size = New System.Drawing.Size(168, 21)
+        Me.ComboBox6.TabIndex = 35
+        '
         'Label30
         '
         Me.Label30.AutoSize = True
@@ -1071,192 +1037,86 @@ Partial Class FichaTrabajador
         Me.Label31.TabIndex = 32
         Me.Label31.Text = "Tipo empleado"
         '
-        'ComboBox6
+        'GroupBox5
         '
-        Me.ComboBox6.FormattingEnabled = True
-        Me.ComboBox6.Location = New System.Drawing.Point(147, 30)
-        Me.ComboBox6.Name = "ComboBox6"
-        Me.ComboBox6.Size = New System.Drawing.Size(168, 21)
-        Me.ComboBox6.TabIndex = 35
+        Me.GroupBox5.Controls.Add(Me.Label29)
+        Me.GroupBox5.Controls.Add(Me.TextBox19)
+        Me.GroupBox5.Controls.Add(Me.Label28)
+        Me.GroupBox5.Controls.Add(Me.TextBox18)
+        Me.GroupBox5.Location = New System.Drawing.Point(6, 130)
+        Me.GroupBox5.Name = "GroupBox5"
+        Me.GroupBox5.Size = New System.Drawing.Size(687, 100)
+        Me.GroupBox5.TabIndex = 42
+        Me.GroupBox5.TabStop = False
+        Me.GroupBox5.Text = "Jefe inmediato"
         '
-        'ComboBox7
+        'Label29
         '
-        Me.ComboBox7.FormattingEnabled = True
-        Me.ComboBox7.Location = New System.Drawing.Point(528, 35)
-        Me.ComboBox7.Name = "ComboBox7"
-        Me.ComboBox7.Size = New System.Drawing.Size(53, 21)
-        Me.ComboBox7.TabIndex = 36
+        Me.Label29.AutoSize = True
+        Me.Label29.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label29.Location = New System.Drawing.Point(15, 60)
+        Me.Label29.Name = "Label29"
+        Me.Label29.Size = New System.Drawing.Size(89, 13)
+        Me.Label29.TabIndex = 34
+        Me.Label29.Text = "Jefe inmediato"
         '
-        'Label32
+        'TextBox19
         '
-        Me.Label32.AutoSize = True
-        Me.Label32.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label32.Location = New System.Drawing.Point(15, 60)
-        Me.Label32.Name = "Label32"
-        Me.Label32.Size = New System.Drawing.Size(94, 13)
-        Me.Label32.TabIndex = 37
-        Me.Label32.Text = "Nivel empleado"
+        Me.TextBox19.Location = New System.Drawing.Point(147, 57)
+        Me.TextBox19.Name = "TextBox19"
+        Me.TextBox19.Size = New System.Drawing.Size(350, 20)
+        Me.TextBox19.TabIndex = 33
         '
-        'Label33
+        'Label28
         '
-        Me.Label33.AutoSize = True
-        Me.Label33.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label33.Location = New System.Drawing.Point(350, 64)
-        Me.Label33.Name = "Label33"
-        Me.Label33.Size = New System.Drawing.Size(142, 13)
-        Me.Label33.TabIndex = 38
-        Me.Label33.Text = "Hr. de trabajo x semana"
+        Me.Label28.AutoSize = True
+        Me.Label28.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label28.Location = New System.Drawing.Point(15, 34)
+        Me.Label28.Name = "Label28"
+        Me.Label28.Size = New System.Drawing.Size(55, 13)
+        Me.Label28.TabIndex = 32
+        Me.Label28.Text = "Posición"
         '
-        'TextBox22
+        'TextBox18
         '
-        Me.TextBox22.Location = New System.Drawing.Point(528, 62)
-        Me.TextBox22.Name = "TextBox22"
-        Me.TextBox22.Size = New System.Drawing.Size(53, 20)
-        Me.TextBox22.TabIndex = 39
+        Me.TextBox18.Location = New System.Drawing.Point(147, 31)
+        Me.TextBox18.Name = "TextBox18"
+        Me.TextBox18.Size = New System.Drawing.Size(350, 20)
+        Me.TextBox18.TabIndex = 28
         '
-        'Label34
+        'GroupBox4
         '
-        Me.Label34.AutoSize = True
-        Me.Label34.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label34.Location = New System.Drawing.Point(15, 88)
-        Me.Label34.Name = "Label34"
-        Me.Label34.Size = New System.Drawing.Size(55, 13)
-        Me.Label34.TabIndex = 40
-        Me.Label34.Text = "Contrato"
+        Me.GroupBox4.Controls.Add(Me.Button10)
+        Me.GroupBox4.Controls.Add(Me.TextBox24)
+        Me.GroupBox4.Controls.Add(Me.Label42)
+        Me.GroupBox4.Controls.Add(Me.Label27)
+        Me.GroupBox4.Controls.Add(Me.ComboBox5)
+        Me.GroupBox4.Controls.Add(Me.Label26)
+        Me.GroupBox4.Controls.Add(Me.ComboBox4)
+        Me.GroupBox4.Controls.Add(Me.Label25)
+        Me.GroupBox4.Controls.Add(Me.TextBox20)
+        Me.GroupBox4.Location = New System.Drawing.Point(6, 6)
+        Me.GroupBox4.Name = "GroupBox4"
+        Me.GroupBox4.Size = New System.Drawing.Size(687, 118)
+        Me.GroupBox4.TabIndex = 41
+        Me.GroupBox4.TabStop = False
+        Me.GroupBox4.Text = "General"
         '
-        'ComboBox8
+        'Button10
         '
-        Me.ComboBox8.FormattingEnabled = True
-        Me.ComboBox8.Location = New System.Drawing.Point(147, 85)
-        Me.ComboBox8.Name = "ComboBox8"
-        Me.ComboBox8.Size = New System.Drawing.Size(168, 21)
-        Me.ComboBox8.TabIndex = 41
+        Me.Button10.Image = Global.proyectoRRHH.My.Resources.Resources.icons8_busqueda_16
+        Me.Button10.Location = New System.Drawing.Point(653, 33)
+        Me.Button10.Name = "Button10"
+        Me.Button10.Size = New System.Drawing.Size(29, 22)
+        Me.Button10.TabIndex = 59
+        Me.Button10.UseVisualStyleBackColor = True
         '
-        'Label35
+        'TextBox24
         '
-        Me.Label35.AutoSize = True
-        Me.Label35.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label35.Location = New System.Drawing.Point(350, 88)
-        Me.Label35.Name = "Label35"
-        Me.Label35.Size = New System.Drawing.Size(111, 13)
-        Me.Label35.TabIndex = 42
-        Me.Label35.Text = "Fecha de contrato"
-        '
-        'DateTimePicker2
-        '
-        Me.DateTimePicker2.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
-        Me.DateTimePicker2.Location = New System.Drawing.Point(528, 85)
-        Me.DateTimePicker2.Name = "DateTimePicker2"
-        Me.DateTimePicker2.Size = New System.Drawing.Size(83, 20)
-        Me.DateTimePicker2.TabIndex = 72
-        '
-        'Label36
-        '
-        Me.Label36.AutoSize = True
-        Me.Label36.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label36.Location = New System.Drawing.Point(15, 118)
-        Me.Label36.Name = "Label36"
-        Me.Label36.Size = New System.Drawing.Size(101, 13)
-        Me.Label36.TabIndex = 73
-        Me.Label36.Text = "Finaliza contrato"
-        '
-        'DateTimePicker3
-        '
-        Me.DateTimePicker3.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
-        Me.DateTimePicker3.Location = New System.Drawing.Point(147, 112)
-        Me.DateTimePicker3.Name = "DateTimePicker3"
-        Me.DateTimePicker3.Size = New System.Drawing.Size(83, 20)
-        Me.DateTimePicker3.TabIndex = 74
-        '
-        'Label37
-        '
-        Me.Label37.AutoSize = True
-        Me.Label37.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label37.Location = New System.Drawing.Point(251, 119)
-        Me.Label37.Name = "Label37"
-        Me.Label37.Size = New System.Drawing.Size(71, 13)
-        Me.Label37.TabIndex = 75
-        Me.Label37.Text = "Antiguedad"
-        '
-        'TextBox23
-        '
-        Me.TextBox23.Location = New System.Drawing.Point(328, 115)
-        Me.TextBox23.Name = "TextBox23"
-        Me.TextBox23.Size = New System.Drawing.Size(53, 20)
-        Me.TextBox23.TabIndex = 76
-        '
-        'Label38
-        '
-        Me.Label38.AutoSize = True
-        Me.Label38.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label38.Location = New System.Drawing.Point(400, 119)
-        Me.Label38.Name = "Label38"
-        Me.Label38.Size = New System.Drawing.Size(92, 13)
-        Me.Label38.TabIndex = 77
-        Me.Label38.Text = "Historia laboral"
-        '
-        'Button9
-        '
-        Me.Button9.Image = Global.proyectoRRHH.My.Resources.Resources.icons8_añadir_16
-        Me.Button9.Location = New System.Drawing.Point(528, 112)
-        Me.Button9.Name = "Button9"
-        Me.Button9.Size = New System.Drawing.Size(31, 23)
-        Me.Button9.TabIndex = 78
-        Me.Button9.UseVisualStyleBackColor = True
-        '
-        'Label39
-        '
-        Me.Label39.AutoSize = True
-        Me.Label39.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label39.Location = New System.Drawing.Point(15, 147)
-        Me.Label39.Name = "Label39"
-        Me.Label39.Size = New System.Drawing.Size(100, 13)
-        Me.Label39.TabIndex = 79
-        Me.Label39.Text = "Motivo de salida"
-        '
-        'ComboBox9
-        '
-        Me.ComboBox9.FormattingEnabled = True
-        Me.ComboBox9.Location = New System.Drawing.Point(145, 144)
-        Me.ComboBox9.Name = "ComboBox9"
-        Me.ComboBox9.Size = New System.Drawing.Size(168, 21)
-        Me.ComboBox9.TabIndex = 80
-        '
-        'ComboBox10
-        '
-        Me.ComboBox10.FormattingEnabled = True
-        Me.ComboBox10.Location = New System.Drawing.Point(528, 144)
-        Me.ComboBox10.Name = "ComboBox10"
-        Me.ComboBox10.Size = New System.Drawing.Size(53, 21)
-        Me.ComboBox10.TabIndex = 82
-        '
-        'Label40
-        '
-        Me.Label40.AutoSize = True
-        Me.Label40.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label40.Location = New System.Drawing.Point(350, 147)
-        Me.Label40.Name = "Label40"
-        Me.Label40.Size = New System.Drawing.Size(94, 13)
-        Me.Label40.TabIndex = 81
-        Me.Label40.Text = "Recontratación"
-        '
-        'Label41
-        '
-        Me.Label41.AutoSize = True
-        Me.Label41.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label41.Location = New System.Drawing.Point(16, 178)
-        Me.Label41.Name = "Label41"
-        Me.Label41.Size = New System.Drawing.Size(91, 13)
-        Me.Label41.TabIndex = 83
-        Me.Label41.Text = "Observaciones"
-        '
-        'RichTextBox1
-        '
-        Me.RichTextBox1.Location = New System.Drawing.Point(145, 178)
-        Me.RichTextBox1.Name = "RichTextBox1"
-        Me.RichTextBox1.Size = New System.Drawing.Size(466, 96)
-        Me.RichTextBox1.TabIndex = 84
-        Me.RichTextBox1.Text = ""
+        Me.TextBox24.Location = New System.Drawing.Point(530, 34)
+        Me.TextBox24.Name = "TextBox24"
+        Me.TextBox24.Size = New System.Drawing.Size(122, 20)
+        Me.TextBox24.TabIndex = 34
         '
         'Label42
         '
@@ -1268,107 +1128,70 @@ Partial Class FichaTrabajador
         Me.Label42.TabIndex = 33
         Me.Label42.Text = "Cuenta contable"
         '
-        'TextBox24
+        'Label27
         '
-        Me.TextBox24.Location = New System.Drawing.Point(530, 34)
-        Me.TextBox24.Name = "TextBox24"
-        Me.TextBox24.Size = New System.Drawing.Size(122, 20)
-        Me.TextBox24.TabIndex = 34
+        Me.Label27.AutoSize = True
+        Me.Label27.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label27.Location = New System.Drawing.Point(15, 83)
+        Me.Label27.Name = "Label27"
+        Me.Label27.Size = New System.Drawing.Size(55, 13)
+        Me.Label27.TabIndex = 32
+        Me.Label27.Text = "Posición"
         '
-        'Button10
+        'ComboBox5
         '
-        Me.Button10.Image = Global.proyectoRRHH.My.Resources.Resources.icons8_busqueda_16
-        Me.Button10.Location = New System.Drawing.Point(653, 33)
-        Me.Button10.Name = "Button10"
-        Me.Button10.Size = New System.Drawing.Size(29, 22)
-        Me.Button10.TabIndex = 59
-        Me.Button10.UseVisualStyleBackColor = True
+        Me.ComboBox5.FormattingEnabled = True
+        Me.ComboBox5.Location = New System.Drawing.Point(147, 53)
+        Me.ComboBox5.Name = "ComboBox5"
+        Me.ComboBox5.Size = New System.Drawing.Size(168, 21)
+        Me.ComboBox5.TabIndex = 31
         '
-        'GroupBox7
+        'Label26
         '
-        Me.GroupBox7.Controls.Add(Me.ComboBox11)
-        Me.GroupBox7.Controls.Add(Me.TextBox29)
-        Me.GroupBox7.Controls.Add(Me.Label47)
-        Me.GroupBox7.Controls.Add(Me.TextBox28)
-        Me.GroupBox7.Controls.Add(Me.TextBox27)
-        Me.GroupBox7.Controls.Add(Me.Label43)
-        Me.GroupBox7.Controls.Add(Me.Label45)
-        Me.GroupBox7.Controls.Add(Me.Label46)
-        Me.GroupBox7.Location = New System.Drawing.Point(8, 6)
-        Me.GroupBox7.Name = "GroupBox7"
-        Me.GroupBox7.Size = New System.Drawing.Size(687, 119)
-        Me.GroupBox7.TabIndex = 42
-        Me.GroupBox7.TabStop = False
-        Me.GroupBox7.Text = "General"
+        Me.Label26.AutoSize = True
+        Me.Label26.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label26.Location = New System.Drawing.Point(15, 56)
+        Me.Label26.Name = "Label26"
+        Me.Label26.Size = New System.Drawing.Size(33, 13)
+        Me.Label26.TabIndex = 30
+        Me.Label26.Text = "Área"
         '
-        'Label43
+        'ComboBox4
         '
-        Me.Label43.AutoSize = True
-        Me.Label43.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label43.Location = New System.Drawing.Point(359, 32)
-        Me.Label43.Name = "Label43"
-        Me.Label43.Size = New System.Drawing.Size(94, 13)
-        Me.Label43.TabIndex = 33
-        Me.Label43.Text = "Tipo de nómina"
+        Me.ComboBox4.FormattingEnabled = True
+        Me.ComboBox4.Location = New System.Drawing.Point(147, 26)
+        Me.ComboBox4.Name = "ComboBox4"
+        Me.ComboBox4.Size = New System.Drawing.Size(168, 21)
+        Me.ComboBox4.TabIndex = 29
         '
-        'Label45
+        'Label25
         '
-        Me.Label45.AutoSize = True
-        Me.Label45.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label45.Location = New System.Drawing.Point(15, 56)
-        Me.Label45.Name = "Label45"
-        Me.Label45.Size = New System.Drawing.Size(83, 13)
-        Me.Label45.TabIndex = 30
-        Me.Label45.Text = "Bono x Horas"
+        Me.Label25.AutoSize = True
+        Me.Label25.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label25.Location = New System.Drawing.Point(15, 29)
+        Me.Label25.Name = "Label25"
+        Me.Label25.Size = New System.Drawing.Size(62, 13)
+        Me.Label25.TabIndex = 9
+        Me.Label25.Text = "Compañia"
         '
-        'Label46
+        'TextBox20
         '
-        Me.Label46.AutoSize = True
-        Me.Label46.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label46.Location = New System.Drawing.Point(15, 29)
-        Me.Label46.Name = "Label46"
-        Me.Label46.Size = New System.Drawing.Size(96, 13)
-        Me.Label46.TabIndex = 9
-        Me.Label46.Text = "Salario mensual"
+        Me.TextBox20.Location = New System.Drawing.Point(147, 80)
+        Me.TextBox20.Name = "TextBox20"
+        Me.TextBox20.Size = New System.Drawing.Size(350, 20)
+        Me.TextBox20.TabIndex = 28
         '
-        'TextBox27
+        'TabPage3
         '
-        Me.TextBox27.Location = New System.Drawing.Point(147, 26)
-        Me.TextBox27.Name = "TextBox27"
-        Me.TextBox27.Size = New System.Drawing.Size(70, 20)
-        Me.TextBox27.TabIndex = 60
-        '
-        'TextBox28
-        '
-        Me.TextBox28.Location = New System.Drawing.Point(147, 54)
-        Me.TextBox28.Name = "TextBox28"
-        Me.TextBox28.Size = New System.Drawing.Size(70, 20)
-        Me.TextBox28.TabIndex = 61
-        '
-        'Label47
-        '
-        Me.Label47.AutoSize = True
-        Me.Label47.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label47.Location = New System.Drawing.Point(15, 85)
-        Me.Label47.Name = "Label47"
-        Me.Label47.Size = New System.Drawing.Size(105, 13)
-        Me.Label47.TabIndex = 62
-        Me.Label47.Text = "Bono Adicional %"
-        '
-        'TextBox29
-        '
-        Me.TextBox29.Location = New System.Drawing.Point(147, 82)
-        Me.TextBox29.Name = "TextBox29"
-        Me.TextBox29.Size = New System.Drawing.Size(70, 20)
-        Me.TextBox29.TabIndex = 63
-        '
-        'ComboBox11
-        '
-        Me.ComboBox11.FormattingEnabled = True
-        Me.ComboBox11.Location = New System.Drawing.Point(488, 29)
-        Me.ComboBox11.Name = "ComboBox11"
-        Me.ComboBox11.Size = New System.Drawing.Size(168, 21)
-        Me.ComboBox11.TabIndex = 64
+        Me.TabPage3.Controls.Add(Me.GroupBox8)
+        Me.TabPage3.Controls.Add(Me.GroupBox7)
+        Me.TabPage3.Location = New System.Drawing.Point(4, 22)
+        Me.TabPage3.Name = "TabPage3"
+        Me.TabPage3.Padding = New System.Windows.Forms.Padding(3)
+        Me.TabPage3.Size = New System.Drawing.Size(709, 533)
+        Me.TabPage3.TabIndex = 2
+        Me.TabPage3.Text = "Compensaciones"
+        Me.TabPage3.UseVisualStyleBackColor = True
         '
         'GroupBox8
         '
@@ -1390,6 +1213,57 @@ Partial Class FichaTrabajador
         Me.GroupBox8.TabIndex = 43
         Me.GroupBox8.TabStop = False
         Me.GroupBox8.Text = "Pago"
+        '
+        'ComboBox15
+        '
+        Me.ComboBox15.FormattingEnabled = True
+        Me.ComboBox15.Location = New System.Drawing.Point(488, 81)
+        Me.ComboBox15.Name = "ComboBox15"
+        Me.ComboBox15.Size = New System.Drawing.Size(73, 21)
+        Me.ComboBox15.TabIndex = 70
+        '
+        'Label52
+        '
+        Me.Label52.AutoSize = True
+        Me.Label52.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label52.Location = New System.Drawing.Point(363, 85)
+        Me.Label52.Name = "Label52"
+        Me.Label52.Size = New System.Drawing.Size(52, 13)
+        Me.Label52.TabIndex = 69
+        Me.Label52.Text = "Moneda"
+        '
+        'TextBox26
+        '
+        Me.TextBox26.Location = New System.Drawing.Point(488, 56)
+        Me.TextBox26.Name = "TextBox26"
+        Me.TextBox26.Size = New System.Drawing.Size(168, 20)
+        Me.TextBox26.TabIndex = 68
+        '
+        'Label51
+        '
+        Me.Label51.AutoSize = True
+        Me.Label51.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label51.Location = New System.Drawing.Point(363, 58)
+        Me.Label51.Name = "Label51"
+        Me.Label51.Size = New System.Drawing.Size(76, 13)
+        Me.Label51.TabIndex = 67
+        Me.Label51.Text = "# de cuenta"
+        '
+        'ComboBox14
+        '
+        Me.ComboBox14.FormattingEnabled = True
+        Me.ComboBox14.Location = New System.Drawing.Point(147, 55)
+        Me.ComboBox14.Name = "ComboBox14"
+        Me.ComboBox14.Size = New System.Drawing.Size(131, 21)
+        Me.ComboBox14.TabIndex = 66
+        '
+        'ComboBox13
+        '
+        Me.ComboBox13.FormattingEnabled = True
+        Me.ComboBox13.Location = New System.Drawing.Point(147, 27)
+        Me.ComboBox13.Name = "ComboBox13"
+        Me.ComboBox13.Size = New System.Drawing.Size(131, 21)
+        Me.ComboBox13.TabIndex = 65
         '
         'ComboBox12
         '
@@ -1446,140 +1320,103 @@ Partial Class FichaTrabajador
         Me.Label50.TabIndex = 9
         Me.Label50.Text = "Método de pago"
         '
-        'ComboBox13
+        'GroupBox7
         '
-        Me.ComboBox13.FormattingEnabled = True
-        Me.ComboBox13.Location = New System.Drawing.Point(147, 27)
-        Me.ComboBox13.Name = "ComboBox13"
-        Me.ComboBox13.Size = New System.Drawing.Size(131, 21)
-        Me.ComboBox13.TabIndex = 65
+        Me.GroupBox7.Controls.Add(Me.ComboBox11)
+        Me.GroupBox7.Controls.Add(Me.TextBox29)
+        Me.GroupBox7.Controls.Add(Me.Label47)
+        Me.GroupBox7.Controls.Add(Me.TextBox28)
+        Me.GroupBox7.Controls.Add(Me.TextBox27)
+        Me.GroupBox7.Controls.Add(Me.Label43)
+        Me.GroupBox7.Controls.Add(Me.Label45)
+        Me.GroupBox7.Controls.Add(Me.Label46)
+        Me.GroupBox7.Location = New System.Drawing.Point(8, 6)
+        Me.GroupBox7.Name = "GroupBox7"
+        Me.GroupBox7.Size = New System.Drawing.Size(687, 119)
+        Me.GroupBox7.TabIndex = 42
+        Me.GroupBox7.TabStop = False
+        Me.GroupBox7.Text = "General"
         '
-        'ComboBox14
+        'ComboBox11
         '
-        Me.ComboBox14.FormattingEnabled = True
-        Me.ComboBox14.Location = New System.Drawing.Point(147, 55)
-        Me.ComboBox14.Name = "ComboBox14"
-        Me.ComboBox14.Size = New System.Drawing.Size(131, 21)
-        Me.ComboBox14.TabIndex = 66
+        Me.ComboBox11.FormattingEnabled = True
+        Me.ComboBox11.Location = New System.Drawing.Point(488, 29)
+        Me.ComboBox11.Name = "ComboBox11"
+        Me.ComboBox11.Size = New System.Drawing.Size(168, 21)
+        Me.ComboBox11.TabIndex = 64
         '
-        'Label51
+        'TextBox29
         '
-        Me.Label51.AutoSize = True
-        Me.Label51.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label51.Location = New System.Drawing.Point(363, 58)
-        Me.Label51.Name = "Label51"
-        Me.Label51.Size = New System.Drawing.Size(76, 13)
-        Me.Label51.TabIndex = 67
-        Me.Label51.Text = "# de cuenta"
+        Me.TextBox29.Location = New System.Drawing.Point(147, 82)
+        Me.TextBox29.Name = "TextBox29"
+        Me.TextBox29.Size = New System.Drawing.Size(70, 20)
+        Me.TextBox29.TabIndex = 63
         '
-        'TextBox26
+        'Label47
         '
-        Me.TextBox26.Location = New System.Drawing.Point(488, 56)
-        Me.TextBox26.Name = "TextBox26"
-        Me.TextBox26.Size = New System.Drawing.Size(168, 20)
-        Me.TextBox26.TabIndex = 68
+        Me.Label47.AutoSize = True
+        Me.Label47.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label47.Location = New System.Drawing.Point(15, 85)
+        Me.Label47.Name = "Label47"
+        Me.Label47.Size = New System.Drawing.Size(105, 13)
+        Me.Label47.TabIndex = 62
+        Me.Label47.Text = "Bono Adicional %"
         '
-        'Label52
+        'TextBox28
         '
-        Me.Label52.AutoSize = True
-        Me.Label52.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label52.Location = New System.Drawing.Point(363, 85)
-        Me.Label52.Name = "Label52"
-        Me.Label52.Size = New System.Drawing.Size(52, 13)
-        Me.Label52.TabIndex = 69
-        Me.Label52.Text = "Moneda"
+        Me.TextBox28.Location = New System.Drawing.Point(147, 54)
+        Me.TextBox28.Name = "TextBox28"
+        Me.TextBox28.Size = New System.Drawing.Size(70, 20)
+        Me.TextBox28.TabIndex = 61
         '
-        'ComboBox15
+        'TextBox27
         '
-        Me.ComboBox15.FormattingEnabled = True
-        Me.ComboBox15.Location = New System.Drawing.Point(488, 81)
-        Me.ComboBox15.Name = "ComboBox15"
-        Me.ComboBox15.Size = New System.Drawing.Size(73, 21)
-        Me.ComboBox15.TabIndex = 70
+        Me.TextBox27.Location = New System.Drawing.Point(147, 26)
+        Me.TextBox27.Name = "TextBox27"
+        Me.TextBox27.Size = New System.Drawing.Size(70, 20)
+        Me.TextBox27.TabIndex = 60
         '
-        'GroupBox9
+        'Label43
         '
-        Me.GroupBox9.Controls.Add(Me.DataGridView1)
-        Me.GroupBox9.Controls.Add(Me.TextBox34)
-        Me.GroupBox9.Controls.Add(Me.Label56)
-        Me.GroupBox9.Controls.Add(Me.Button11)
-        Me.GroupBox9.Controls.Add(Me.Button12)
-        Me.GroupBox9.Controls.Add(Me.DateTimePicker4)
-        Me.GroupBox9.Controls.Add(Me.Label53)
-        Me.GroupBox9.Controls.Add(Me.TextBox30)
-        Me.GroupBox9.Controls.Add(Me.Label54)
-        Me.GroupBox9.Controls.Add(Me.ComboBox17)
-        Me.GroupBox9.Controls.Add(Me.TextBox31)
-        Me.GroupBox9.Controls.Add(Me.Label55)
-        Me.GroupBox9.Controls.Add(Me.Label57)
-        Me.GroupBox9.Location = New System.Drawing.Point(8, 6)
-        Me.GroupBox9.Name = "GroupBox9"
-        Me.GroupBox9.Size = New System.Drawing.Size(687, 248)
-        Me.GroupBox9.TabIndex = 44
-        Me.GroupBox9.TabStop = False
-        Me.GroupBox9.Text = "Académico"
+        Me.Label43.AutoSize = True
+        Me.Label43.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label43.Location = New System.Drawing.Point(359, 32)
+        Me.Label43.Name = "Label43"
+        Me.Label43.Size = New System.Drawing.Size(94, 13)
+        Me.Label43.TabIndex = 33
+        Me.Label43.Text = "Tipo de nómina"
         '
-        'Label53
+        'Label45
         '
-        Me.Label53.AutoSize = True
-        Me.Label53.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label53.Location = New System.Drawing.Point(363, 54)
-        Me.Label53.Name = "Label53"
-        Me.Label53.Size = New System.Drawing.Size(42, 13)
-        Me.Label53.TabIndex = 69
-        Me.Label53.Text = "Fecha"
+        Me.Label45.AutoSize = True
+        Me.Label45.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label45.Location = New System.Drawing.Point(15, 56)
+        Me.Label45.Name = "Label45"
+        Me.Label45.Size = New System.Drawing.Size(83, 13)
+        Me.Label45.TabIndex = 30
+        Me.Label45.Text = "Bono x Horas"
         '
-        'TextBox30
+        'Label46
         '
-        Me.TextBox30.Location = New System.Drawing.Point(520, 25)
-        Me.TextBox30.Name = "TextBox30"
-        Me.TextBox30.Size = New System.Drawing.Size(136, 20)
-        Me.TextBox30.TabIndex = 68
+        Me.Label46.AutoSize = True
+        Me.Label46.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label46.Location = New System.Drawing.Point(15, 29)
+        Me.Label46.Name = "Label46"
+        Me.Label46.Size = New System.Drawing.Size(96, 13)
+        Me.Label46.TabIndex = 9
+        Me.Label46.Text = "Salario mensual"
         '
-        'Label54
+        'TabPage4
         '
-        Me.Label54.AutoSize = True
-        Me.Label54.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label54.Location = New System.Drawing.Point(363, 27)
-        Me.Label54.Name = "Label54"
-        Me.Label54.Size = New System.Drawing.Size(135, 13)
-        Me.Label54.TabIndex = 67
-        Me.Label54.Text = "Horas de capacitación"
-        '
-        'ComboBox17
-        '
-        Me.ComboBox17.FormattingEnabled = True
-        Me.ComboBox17.Location = New System.Drawing.Point(147, 24)
-        Me.ComboBox17.Name = "ComboBox17"
-        Me.ComboBox17.Size = New System.Drawing.Size(131, 21)
-        Me.ComboBox17.TabIndex = 66
-        '
-        'TextBox31
-        '
-        Me.TextBox31.Location = New System.Drawing.Point(147, 51)
-        Me.TextBox31.Name = "TextBox31"
-        Me.TextBox31.Size = New System.Drawing.Size(200, 20)
-        Me.TextBox31.TabIndex = 63
-        '
-        'Label55
-        '
-        Me.Label55.AutoSize = True
-        Me.Label55.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label55.Location = New System.Drawing.Point(15, 52)
-        Me.Label55.Name = "Label55"
-        Me.Label55.Size = New System.Drawing.Size(66, 13)
-        Me.Label55.TabIndex = 62
-        Me.Label55.Text = "Institución"
-        '
-        'Label57
-        '
-        Me.Label57.AutoSize = True
-        Me.Label57.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label57.Location = New System.Drawing.Point(15, 26)
-        Me.Label57.Name = "Label57"
-        Me.Label57.Size = New System.Drawing.Size(36, 13)
-        Me.Label57.TabIndex = 30
-        Me.Label57.Text = "Nivel"
+        Me.TabPage4.Controls.Add(Me.GroupBox10)
+        Me.TabPage4.Controls.Add(Me.GroupBox9)
+        Me.TabPage4.Location = New System.Drawing.Point(4, 22)
+        Me.TabPage4.Name = "TabPage4"
+        Me.TabPage4.Padding = New System.Windows.Forms.Padding(3)
+        Me.TabPage4.Size = New System.Drawing.Size(709, 533)
+        Me.TabPage4.TabIndex = 3
+        Me.TabPage4.Text = "Académico y Laboral"
+        Me.TabPage4.UseVisualStyleBackColor = True
         '
         'GroupBox10
         '
@@ -1604,6 +1441,78 @@ Partial Class FichaTrabajador
         Me.GroupBox10.TabIndex = 45
         Me.GroupBox10.TabStop = False
         Me.GroupBox10.Text = "Laboral"
+        '
+        'TextBox32
+        '
+        Me.TextBox32.Location = New System.Drawing.Point(147, 108)
+        Me.TextBox32.Name = "TextBox32"
+        Me.TextBox32.Size = New System.Drawing.Size(351, 20)
+        Me.TextBox32.TabIndex = 86
+        '
+        'Label58
+        '
+        Me.Label58.AutoSize = True
+        Me.Label58.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label58.Location = New System.Drawing.Point(15, 111)
+        Me.Label58.Name = "Label58"
+        Me.Label58.Size = New System.Drawing.Size(91, 13)
+        Me.Label58.TabIndex = 85
+        Me.Label58.Text = "Observaciones"
+        '
+        'DateTimePicker6
+        '
+        Me.DateTimePicker6.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
+        Me.DateTimePicker6.Location = New System.Drawing.Point(520, 55)
+        Me.DateTimePicker6.Name = "DateTimePicker6"
+        Me.DateTimePicker6.Size = New System.Drawing.Size(83, 20)
+        Me.DateTimePicker6.TabIndex = 84
+        '
+        'DateTimePicker5
+        '
+        Me.DateTimePicker5.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
+        Me.DateTimePicker5.Location = New System.Drawing.Point(520, 29)
+        Me.DateTimePicker5.Name = "DateTimePicker5"
+        Me.DateTimePicker5.Size = New System.Drawing.Size(83, 20)
+        Me.DateTimePicker5.TabIndex = 83
+        '
+        'TextBox35
+        '
+        Me.TextBox35.Location = New System.Drawing.Point(147, 82)
+        Me.TextBox35.Name = "TextBox35"
+        Me.TextBox35.Size = New System.Drawing.Size(200, 20)
+        Me.TextBox35.TabIndex = 82
+        '
+        'Button13
+        '
+        Me.Button13.Image = Global.proyectoRRHH.My.Resources.Resources.icons8_cancelar_16
+        Me.Button13.ImageAlign = System.Drawing.ContentAlignment.MiddleRight
+        Me.Button13.Location = New System.Drawing.Point(585, 107)
+        Me.Button13.Name = "Button13"
+        Me.Button13.Size = New System.Drawing.Size(71, 23)
+        Me.Button13.TabIndex = 81
+        Me.Button13.Text = "Eliminar"
+        Me.Button13.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.Button13.UseVisualStyleBackColor = True
+        '
+        'Button14
+        '
+        Me.Button14.Image = Global.proyectoRRHH.My.Resources.Resources.icons8_añadir_16
+        Me.Button14.ImageAlign = System.Drawing.ContentAlignment.MiddleRight
+        Me.Button14.Location = New System.Drawing.Point(508, 107)
+        Me.Button14.Name = "Button14"
+        Me.Button14.Size = New System.Drawing.Size(71, 23)
+        Me.Button14.TabIndex = 80
+        Me.Button14.Text = "Agregar"
+        Me.Button14.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.Button14.UseVisualStyleBackColor = True
+        '
+        'DataGridView2
+        '
+        Me.DataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.DataGridView2.Location = New System.Drawing.Point(18, 134)
+        Me.DataGridView2.Name = "DataGridView2"
+        Me.DataGridView2.Size = New System.Drawing.Size(638, 127)
+        Me.DataGridView2.TabIndex = 79
         '
         'Label60
         '
@@ -1670,13 +1579,52 @@ Partial Class FichaTrabajador
         Me.Label64.TabIndex = 9
         Me.Label64.Text = "Tipo empresa"
         '
-        'DateTimePicker4
+        'GroupBox9
         '
-        Me.DateTimePicker4.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
-        Me.DateTimePicker4.Location = New System.Drawing.Point(520, 51)
-        Me.DateTimePicker4.Name = "DateTimePicker4"
-        Me.DateTimePicker4.Size = New System.Drawing.Size(83, 20)
-        Me.DateTimePicker4.TabIndex = 73
+        Me.GroupBox9.Controls.Add(Me.DataGridView1)
+        Me.GroupBox9.Controls.Add(Me.TextBox34)
+        Me.GroupBox9.Controls.Add(Me.Label56)
+        Me.GroupBox9.Controls.Add(Me.Button11)
+        Me.GroupBox9.Controls.Add(Me.Button12)
+        Me.GroupBox9.Controls.Add(Me.DateTimePicker4)
+        Me.GroupBox9.Controls.Add(Me.Label53)
+        Me.GroupBox9.Controls.Add(Me.TextBox30)
+        Me.GroupBox9.Controls.Add(Me.Label54)
+        Me.GroupBox9.Controls.Add(Me.ComboBox17)
+        Me.GroupBox9.Controls.Add(Me.TextBox31)
+        Me.GroupBox9.Controls.Add(Me.Label55)
+        Me.GroupBox9.Controls.Add(Me.Label57)
+        Me.GroupBox9.Location = New System.Drawing.Point(8, 6)
+        Me.GroupBox9.Name = "GroupBox9"
+        Me.GroupBox9.Size = New System.Drawing.Size(687, 248)
+        Me.GroupBox9.TabIndex = 44
+        Me.GroupBox9.TabStop = False
+        Me.GroupBox9.Text = "Académico"
+        '
+        'DataGridView1
+        '
+        Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.DataGridView1.Location = New System.Drawing.Point(18, 103)
+        Me.DataGridView1.Name = "DataGridView1"
+        Me.DataGridView1.Size = New System.Drawing.Size(638, 139)
+        Me.DataGridView1.TabIndex = 78
+        '
+        'TextBox34
+        '
+        Me.TextBox34.Location = New System.Drawing.Point(147, 77)
+        Me.TextBox34.Name = "TextBox34"
+        Me.TextBox34.Size = New System.Drawing.Size(351, 20)
+        Me.TextBox34.TabIndex = 77
+        '
+        'Label56
+        '
+        Me.Label56.AutoSize = True
+        Me.Label56.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label56.Location = New System.Drawing.Point(15, 80)
+        Me.Label56.Name = "Label56"
+        Me.Label56.Size = New System.Drawing.Size(91, 13)
+        Me.Label56.TabIndex = 76
+        Me.Label56.Text = "Observaciones"
         '
         'Button11
         '
@@ -1702,102 +1650,86 @@ Partial Class FichaTrabajador
         Me.Button12.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         Me.Button12.UseVisualStyleBackColor = True
         '
-        'Label56
+        'DateTimePicker4
         '
-        Me.Label56.AutoSize = True
-        Me.Label56.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label56.Location = New System.Drawing.Point(15, 80)
-        Me.Label56.Name = "Label56"
-        Me.Label56.Size = New System.Drawing.Size(91, 13)
-        Me.Label56.TabIndex = 76
-        Me.Label56.Text = "Observaciones"
+        Me.DateTimePicker4.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
+        Me.DateTimePicker4.Location = New System.Drawing.Point(520, 51)
+        Me.DateTimePicker4.Name = "DateTimePicker4"
+        Me.DateTimePicker4.Size = New System.Drawing.Size(83, 20)
+        Me.DateTimePicker4.TabIndex = 73
         '
-        'TextBox34
+        'Label53
         '
-        Me.TextBox34.Location = New System.Drawing.Point(147, 77)
-        Me.TextBox34.Name = "TextBox34"
-        Me.TextBox34.Size = New System.Drawing.Size(351, 20)
-        Me.TextBox34.TabIndex = 77
+        Me.Label53.AutoSize = True
+        Me.Label53.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label53.Location = New System.Drawing.Point(363, 54)
+        Me.Label53.Name = "Label53"
+        Me.Label53.Size = New System.Drawing.Size(42, 13)
+        Me.Label53.TabIndex = 69
+        Me.Label53.Text = "Fecha"
         '
-        'DataGridView1
+        'TextBox30
         '
-        Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.DataGridView1.Location = New System.Drawing.Point(18, 103)
-        Me.DataGridView1.Name = "DataGridView1"
-        Me.DataGridView1.Size = New System.Drawing.Size(638, 139)
-        Me.DataGridView1.TabIndex = 78
+        Me.TextBox30.Location = New System.Drawing.Point(520, 25)
+        Me.TextBox30.Name = "TextBox30"
+        Me.TextBox30.Size = New System.Drawing.Size(136, 20)
+        Me.TextBox30.TabIndex = 68
         '
-        'DataGridView2
+        'Label54
         '
-        Me.DataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.DataGridView2.Location = New System.Drawing.Point(18, 134)
-        Me.DataGridView2.Name = "DataGridView2"
-        Me.DataGridView2.Size = New System.Drawing.Size(638, 127)
-        Me.DataGridView2.TabIndex = 79
+        Me.Label54.AutoSize = True
+        Me.Label54.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label54.Location = New System.Drawing.Point(363, 27)
+        Me.Label54.Name = "Label54"
+        Me.Label54.Size = New System.Drawing.Size(135, 13)
+        Me.Label54.TabIndex = 67
+        Me.Label54.Text = "Horas de capacitación"
         '
-        'Button13
+        'ComboBox17
         '
-        Me.Button13.Image = Global.proyectoRRHH.My.Resources.Resources.icons8_cancelar_16
-        Me.Button13.ImageAlign = System.Drawing.ContentAlignment.MiddleRight
-        Me.Button13.Location = New System.Drawing.Point(585, 107)
-        Me.Button13.Name = "Button13"
-        Me.Button13.Size = New System.Drawing.Size(71, 23)
-        Me.Button13.TabIndex = 81
-        Me.Button13.Text = "Eliminar"
-        Me.Button13.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.Button13.UseVisualStyleBackColor = True
+        Me.ComboBox17.FormattingEnabled = True
+        Me.ComboBox17.Location = New System.Drawing.Point(147, 24)
+        Me.ComboBox17.Name = "ComboBox17"
+        Me.ComboBox17.Size = New System.Drawing.Size(131, 21)
+        Me.ComboBox17.TabIndex = 66
         '
-        'Button14
+        'TextBox31
         '
-        Me.Button14.Image = Global.proyectoRRHH.My.Resources.Resources.icons8_añadir_16
-        Me.Button14.ImageAlign = System.Drawing.ContentAlignment.MiddleRight
-        Me.Button14.Location = New System.Drawing.Point(508, 107)
-        Me.Button14.Name = "Button14"
-        Me.Button14.Size = New System.Drawing.Size(71, 23)
-        Me.Button14.TabIndex = 80
-        Me.Button14.Text = "Agregar"
-        Me.Button14.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.Button14.UseVisualStyleBackColor = True
+        Me.TextBox31.Location = New System.Drawing.Point(147, 51)
+        Me.TextBox31.Name = "TextBox31"
+        Me.TextBox31.Size = New System.Drawing.Size(200, 20)
+        Me.TextBox31.TabIndex = 63
         '
-        'TextBox35
+        'Label55
         '
-        Me.TextBox35.Location = New System.Drawing.Point(147, 82)
-        Me.TextBox35.Name = "TextBox35"
-        Me.TextBox35.Size = New System.Drawing.Size(200, 20)
-        Me.TextBox35.TabIndex = 82
+        Me.Label55.AutoSize = True
+        Me.Label55.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label55.Location = New System.Drawing.Point(15, 52)
+        Me.Label55.Name = "Label55"
+        Me.Label55.Size = New System.Drawing.Size(66, 13)
+        Me.Label55.TabIndex = 62
+        Me.Label55.Text = "Institución"
         '
-        'DateTimePicker5
+        'Label57
         '
-        Me.DateTimePicker5.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
-        Me.DateTimePicker5.Location = New System.Drawing.Point(520, 29)
-        Me.DateTimePicker5.Name = "DateTimePicker5"
-        Me.DateTimePicker5.Size = New System.Drawing.Size(83, 20)
-        Me.DateTimePicker5.TabIndex = 83
+        Me.Label57.AutoSize = True
+        Me.Label57.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label57.Location = New System.Drawing.Point(15, 26)
+        Me.Label57.Name = "Label57"
+        Me.Label57.Size = New System.Drawing.Size(36, 13)
+        Me.Label57.TabIndex = 30
+        Me.Label57.Text = "Nivel"
         '
-        'DateTimePicker6
+        'TabPage5
         '
-        Me.DateTimePicker6.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
-        Me.DateTimePicker6.Location = New System.Drawing.Point(520, 55)
-        Me.DateTimePicker6.Name = "DateTimePicker6"
-        Me.DateTimePicker6.Size = New System.Drawing.Size(83, 20)
-        Me.DateTimePicker6.TabIndex = 84
-        '
-        'TextBox32
-        '
-        Me.TextBox32.Location = New System.Drawing.Point(147, 108)
-        Me.TextBox32.Name = "TextBox32"
-        Me.TextBox32.Size = New System.Drawing.Size(351, 20)
-        Me.TextBox32.TabIndex = 86
-        '
-        'Label58
-        '
-        Me.Label58.AutoSize = True
-        Me.Label58.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label58.Location = New System.Drawing.Point(15, 111)
-        Me.Label58.Name = "Label58"
-        Me.Label58.Size = New System.Drawing.Size(91, 13)
-        Me.Label58.TabIndex = 85
-        Me.Label58.Text = "Observaciones"
+        Me.TabPage5.Controls.Add(Me.GroupBox11)
+        Me.TabPage5.Location = New System.Drawing.Point(4, 22)
+        Me.TabPage5.Name = "TabPage5"
+        Me.TabPage5.Padding = New System.Windows.Forms.Padding(3)
+        Me.TabPage5.Size = New System.Drawing.Size(709, 533)
+        Me.TabPage5.TabIndex = 4
+        Me.TabPage5.Text = "Expediente"
+        Me.TabPage5.UseVisualStyleBackColor = True
         '
         'GroupBox11
         '
@@ -1817,14 +1749,17 @@ Partial Class FichaTrabajador
         Me.RichTextBox2.TabIndex = 0
         Me.RichTextBox2.Text = ""
         '
-        'GroupBox12
+        'TabPage6
         '
-        Me.GroupBox12.Location = New System.Drawing.Point(11, 6)
-        Me.GroupBox12.Name = "GroupBox12"
-        Me.GroupBox12.Size = New System.Drawing.Size(687, 265)
-        Me.GroupBox12.TabIndex = 46
-        Me.GroupBox12.TabStop = False
-        Me.GroupBox12.Text = "Firma de empleado"
+        Me.TabPage6.Controls.Add(Me.GroupBox13)
+        Me.TabPage6.Controls.Add(Me.GroupBox12)
+        Me.TabPage6.Location = New System.Drawing.Point(4, 22)
+        Me.TabPage6.Name = "TabPage6"
+        Me.TabPage6.Padding = New System.Windows.Forms.Padding(3)
+        Me.TabPage6.Size = New System.Drawing.Size(709, 533)
+        Me.TabPage6.TabIndex = 5
+        Me.TabPage6.Text = "Firma digital"
+        Me.TabPage6.UseVisualStyleBackColor = True
         '
         'GroupBox13
         '
@@ -1834,6 +1769,26 @@ Partial Class FichaTrabajador
         Me.GroupBox13.TabIndex = 47
         Me.GroupBox13.TabStop = False
         Me.GroupBox13.Text = "Huella de empleado"
+        '
+        'GroupBox12
+        '
+        Me.GroupBox12.Location = New System.Drawing.Point(11, 6)
+        Me.GroupBox12.Name = "GroupBox12"
+        Me.GroupBox12.Size = New System.Drawing.Size(687, 265)
+        Me.GroupBox12.TabIndex = 46
+        Me.GroupBox12.TabStop = False
+        Me.GroupBox12.Text = "Firma de empleado"
+        '
+        'TabPage7
+        '
+        Me.TabPage7.Controls.Add(Me.GroupBox14)
+        Me.TabPage7.Location = New System.Drawing.Point(4, 22)
+        Me.TabPage7.Name = "TabPage7"
+        Me.TabPage7.Padding = New System.Windows.Forms.Padding(3)
+        Me.TabPage7.Size = New System.Drawing.Size(709, 533)
+        Me.TabPage7.TabIndex = 6
+        Me.TabPage7.Text = "Documentos digitales"
+        Me.TabPage7.UseVisualStyleBackColor = True
         '
         'GroupBox14
         '
@@ -1853,75 +1808,6 @@ Partial Class FichaTrabajador
         Me.GroupBox14.TabIndex = 46
         Me.GroupBox14.TabStop = False
         Me.GroupBox14.Text = "Digitalización de documentos del empleado"
-        '
-        'DataGridView3
-        '
-        Me.DataGridView3.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.DataGridView3.Location = New System.Drawing.Point(6, 134)
-        Me.DataGridView3.Name = "DataGridView3"
-        Me.DataGridView3.Size = New System.Drawing.Size(675, 381)
-        Me.DataGridView3.TabIndex = 80
-        '
-        'ComboBox16
-        '
-        Me.ComboBox16.FormattingEnabled = True
-        Me.ComboBox16.Location = New System.Drawing.Point(139, 23)
-        Me.ComboBox16.Name = "ComboBox16"
-        Me.ComboBox16.Size = New System.Drawing.Size(131, 21)
-        Me.ComboBox16.TabIndex = 82
-        '
-        'Label59
-        '
-        Me.Label59.AutoSize = True
-        Me.Label59.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label59.Location = New System.Drawing.Point(7, 25)
-        Me.Label59.Name = "Label59"
-        Me.Label59.Size = New System.Drawing.Size(98, 13)
-        Me.Label59.TabIndex = 81
-        Me.Label59.Text = "Tipo documento"
-        '
-        'Label65
-        '
-        Me.Label65.AutoSize = True
-        Me.Label65.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label65.Location = New System.Drawing.Point(7, 53)
-        Me.Label65.Name = "Label65"
-        Me.Label65.Size = New System.Drawing.Size(34, 13)
-        Me.Label65.TabIndex = 83
-        Me.Label65.Text = "Ruta"
-        '
-        'TextBox36
-        '
-        Me.TextBox36.Location = New System.Drawing.Point(139, 53)
-        Me.TextBox36.Name = "TextBox36"
-        Me.TextBox36.Size = New System.Drawing.Size(506, 20)
-        Me.TextBox36.TabIndex = 84
-        '
-        'Button15
-        '
-        Me.Button15.Image = Global.proyectoRRHH.My.Resources.Resources.icons8_añadir_16
-        Me.Button15.Location = New System.Drawing.Point(649, 52)
-        Me.Button15.Name = "Button15"
-        Me.Button15.Size = New System.Drawing.Size(31, 23)
-        Me.Button15.TabIndex = 85
-        Me.Button15.UseVisualStyleBackColor = True
-        '
-        'Label66
-        '
-        Me.Label66.AutoSize = True
-        Me.Label66.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label66.Location = New System.Drawing.Point(9, 83)
-        Me.Label66.Name = "Label66"
-        Me.Label66.Size = New System.Drawing.Size(91, 13)
-        Me.Label66.TabIndex = 86
-        Me.Label66.Text = "Observaciones"
-        '
-        'TextBox37
-        '
-        Me.TextBox37.Location = New System.Drawing.Point(139, 79)
-        Me.TextBox37.Name = "TextBox37"
-        Me.TextBox37.Size = New System.Drawing.Size(506, 20)
-        Me.TextBox37.TabIndex = 87
         '
         'Button16
         '
@@ -1947,6 +1833,120 @@ Partial Class FichaTrabajador
         Me.Button17.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         Me.Button17.UseVisualStyleBackColor = True
         '
+        'TextBox37
+        '
+        Me.TextBox37.Location = New System.Drawing.Point(139, 79)
+        Me.TextBox37.Name = "TextBox37"
+        Me.TextBox37.Size = New System.Drawing.Size(506, 20)
+        Me.TextBox37.TabIndex = 87
+        '
+        'Label66
+        '
+        Me.Label66.AutoSize = True
+        Me.Label66.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label66.Location = New System.Drawing.Point(9, 83)
+        Me.Label66.Name = "Label66"
+        Me.Label66.Size = New System.Drawing.Size(91, 13)
+        Me.Label66.TabIndex = 86
+        Me.Label66.Text = "Observaciones"
+        '
+        'Button15
+        '
+        Me.Button15.Image = Global.proyectoRRHH.My.Resources.Resources.icons8_añadir_16
+        Me.Button15.Location = New System.Drawing.Point(649, 52)
+        Me.Button15.Name = "Button15"
+        Me.Button15.Size = New System.Drawing.Size(31, 23)
+        Me.Button15.TabIndex = 85
+        Me.Button15.UseVisualStyleBackColor = True
+        '
+        'TextBox36
+        '
+        Me.TextBox36.Location = New System.Drawing.Point(139, 53)
+        Me.TextBox36.Name = "TextBox36"
+        Me.TextBox36.Size = New System.Drawing.Size(506, 20)
+        Me.TextBox36.TabIndex = 84
+        '
+        'Label65
+        '
+        Me.Label65.AutoSize = True
+        Me.Label65.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label65.Location = New System.Drawing.Point(7, 53)
+        Me.Label65.Name = "Label65"
+        Me.Label65.Size = New System.Drawing.Size(34, 13)
+        Me.Label65.TabIndex = 83
+        Me.Label65.Text = "Ruta"
+        '
+        'ComboBox16
+        '
+        Me.ComboBox16.FormattingEnabled = True
+        Me.ComboBox16.Location = New System.Drawing.Point(139, 23)
+        Me.ComboBox16.Name = "ComboBox16"
+        Me.ComboBox16.Size = New System.Drawing.Size(131, 21)
+        Me.ComboBox16.TabIndex = 82
+        '
+        'Label59
+        '
+        Me.Label59.AutoSize = True
+        Me.Label59.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label59.Location = New System.Drawing.Point(7, 25)
+        Me.Label59.Name = "Label59"
+        Me.Label59.Size = New System.Drawing.Size(98, 13)
+        Me.Label59.TabIndex = 81
+        Me.Label59.Text = "Tipo documento"
+        '
+        'DataGridView3
+        '
+        Me.DataGridView3.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.DataGridView3.Location = New System.Drawing.Point(6, 134)
+        Me.DataGridView3.Name = "DataGridView3"
+        Me.DataGridView3.Size = New System.Drawing.Size(675, 381)
+        Me.DataGridView3.TabIndex = 80
+        '
+        'Button8
+        '
+        Me.Button8.Image = Global.proyectoRRHH.My.Resources.Resources.icons8_cerrar_ventana_32
+        Me.Button8.Location = New System.Drawing.Point(205, 561)
+        Me.Button8.Name = "Button8"
+        Me.Button8.Size = New System.Drawing.Size(46, 42)
+        Me.Button8.TabIndex = 63
+        Me.Button8.UseVisualStyleBackColor = True
+        '
+        'Button7
+        '
+        Me.Button7.Image = Global.proyectoRRHH.My.Resources.Resources.icons8_imprimir_32
+        Me.Button7.Location = New System.Drawing.Point(157, 561)
+        Me.Button7.Name = "Button7"
+        Me.Button7.Size = New System.Drawing.Size(46, 42)
+        Me.Button7.TabIndex = 62
+        Me.Button7.UseVisualStyleBackColor = True
+        '
+        'Button6
+        '
+        Me.Button6.Image = Global.proyectoRRHH.My.Resources.Resources.icons8_cancelar_32
+        Me.Button6.Location = New System.Drawing.Point(109, 561)
+        Me.Button6.Name = "Button6"
+        Me.Button6.Size = New System.Drawing.Size(46, 42)
+        Me.Button6.TabIndex = 61
+        Me.Button6.UseVisualStyleBackColor = True
+        '
+        'Button5
+        '
+        Me.Button5.Image = Global.proyectoRRHH.My.Resources.Resources.icons8_guardar_32
+        Me.Button5.Location = New System.Drawing.Point(60, 561)
+        Me.Button5.Name = "Button5"
+        Me.Button5.Size = New System.Drawing.Size(46, 42)
+        Me.Button5.TabIndex = 60
+        Me.Button5.UseVisualStyleBackColor = True
+        '
+        'Button4
+        '
+        Me.Button4.Image = Global.proyectoRRHH.My.Resources.Resources.icons8_agregar_archivo_32
+        Me.Button4.Location = New System.Drawing.Point(12, 561)
+        Me.Button4.Name = "Button4"
+        Me.Button4.Size = New System.Drawing.Size(46, 42)
+        Me.Button4.TabIndex = 59
+        Me.Button4.UseVisualStyleBackColor = True
+        '
         'FichaTrabajador
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -1970,30 +1970,30 @@ Partial Class FichaTrabajador
         Me.GroupBox2.PerformLayout()
         Me.GroupBox1.ResumeLayout(False)
         Me.GroupBox1.PerformLayout()
-        Me.TabPage2.ResumeLayout(False)
-        Me.TabPage3.ResumeLayout(False)
-        Me.TabPage4.ResumeLayout(False)
-        Me.TabPage5.ResumeLayout(False)
-        Me.TabPage6.ResumeLayout(False)
-        Me.TabPage7.ResumeLayout(False)
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
-        Me.GroupBox4.ResumeLayout(False)
-        Me.GroupBox4.PerformLayout()
-        Me.GroupBox5.ResumeLayout(False)
-        Me.GroupBox5.PerformLayout()
+        Me.TabPage2.ResumeLayout(False)
         Me.GroupBox6.ResumeLayout(False)
         Me.GroupBox6.PerformLayout()
-        Me.GroupBox7.ResumeLayout(False)
-        Me.GroupBox7.PerformLayout()
+        Me.GroupBox5.ResumeLayout(False)
+        Me.GroupBox5.PerformLayout()
+        Me.GroupBox4.ResumeLayout(False)
+        Me.GroupBox4.PerformLayout()
+        Me.TabPage3.ResumeLayout(False)
         Me.GroupBox8.ResumeLayout(False)
         Me.GroupBox8.PerformLayout()
-        Me.GroupBox9.ResumeLayout(False)
-        Me.GroupBox9.PerformLayout()
+        Me.GroupBox7.ResumeLayout(False)
+        Me.GroupBox7.PerformLayout()
+        Me.TabPage4.ResumeLayout(False)
         Me.GroupBox10.ResumeLayout(False)
         Me.GroupBox10.PerformLayout()
-        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.DataGridView2, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.GroupBox9.ResumeLayout(False)
+        Me.GroupBox9.PerformLayout()
+        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.TabPage5.ResumeLayout(False)
         Me.GroupBox11.ResumeLayout(False)
+        Me.TabPage6.ResumeLayout(False)
+        Me.TabPage7.ResumeLayout(False)
         Me.GroupBox14.ResumeLayout(False)
         Me.GroupBox14.PerformLayout()
         CType(Me.DataGridView3, System.ComponentModel.ISupportInitialize).EndInit()
